@@ -9,9 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/styled-components": "^5.1.24",
+    "@web3-react/core": "^6.1.9",
+    "@web3-react/injected-connector": "^6.0.7",
+    "babel-plugin-styled-components": "^2.0.6",
+    "ethers": "^5.6.1",
     "next": "12.1.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "styled-components": "^5.3.3",
+    "web3": "^1.7.1"
   },
   "devDependencies": {
     "@types/node": "17.0.21",
